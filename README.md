@@ -4,19 +4,22 @@
 
 If you encounter bugs or have suggestions, you can leave them on the **Issues** tab.
 
-## How to use
-To use this package, first head over to the releases tab of the github, and download the **.unitypackage**
+---
 
-Then, go into your unity project, right click in the Assets folder (Project window) and click **Import Package/Custom Package...**
+## How to Use
 
-Now, go to **Tools/AI Agent Setup**.
-From here, you can set up the agents.
+1. Head over to the **Releases** tab of the GitHub and download the **.unitypackage**.
+2. In your Unity project, right-click in the **Assets** folder (Project window) and select:  
+   **Import Package > Custom Package...**
+3. Navigate to **Tools > AI Agent Setup**.  
+   - From here, you can set up the agents.  
+   - Hover over each element for explanations of what they do.
+4. Once set up, go to **Assets/Agents** to find your agent.  
+   - Here you can add a model to your agent, or configure its values like **speed** and **acceleration**.
 
-Make sure you hover over each element, as most have an explanation to what they do.
+---
 
-Once you've set up the agent, you can go to **Assets/Agents** to find it.
+## Notes
 
-Here you can add a model to your agent, or configure its values like **speed** and **acceleration**.
-
-Have fun using the package!
-If you have issues, please create a post on the Issues tab of the github :)
+Have fun using the package!  
+If you have issues, please create a post on the **Issues** tab of the GitHub :)
