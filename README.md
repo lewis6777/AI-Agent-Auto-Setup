@@ -6,6 +6,7 @@ If you encounter bugs or have suggestions, you can leave them on the **Issues** 
 
 ## How to use
 To use this package, first head over to the releases tab of the github, and download the **.unitypackage**
+
 Then, go into your unity project, right click in the Assets folder (Project window) and click **Import Package/Custom Package...**
 
 Now, go to Tools/AI Agent Setup.
