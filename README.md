@@ -8,7 +8,7 @@ If you encounter bugs or have suggestions, you can leave them on the **Issues** 
 
 ## How to Use
 
-1. Head over to the **Releases** tab of the GitHub and download the **.unitypackage**.
+1. Head over to the **[Releases](https://github.com/lewis6777/AI-Agent-Auto-Setup/releases)** tab of the GitHub and download the **.unitypackage**.
 2. In your Unity project, right-click in the **Assets** folder (Project window) and select:  
    **Import Package > Custom Package...**
 3. Navigate to **Tools > AI Agent Setup**.  
