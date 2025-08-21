@@ -9,9 +9,14 @@ To use this package, first head over to the releases tab of the github, and down
 
 Then, go into your unity project, right click in the Assets folder (Project window) and click **Import Package/Custom Package...**
 
-Now, go to Tools/AI Agent Setup.
+Now, go to **Tools/AI Agent Setup**.
 From here, you can set up the agents.
+
 Make sure you hover over each element, as most have an explanation to what they do.
 
 Once you've set up the agent, you can go to **Assets/Agents** to find it.
+
 Here you can add a model to your agent, or configure its values like **speed** and **acceleration**.
+
+Have fun using the package!
+If you have issues, please create a post on the Issues tab of the github :)
